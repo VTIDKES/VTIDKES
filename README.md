@@ -1,16 +1,92 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Vitor Silva
 
-<!--
-**VTIDKES/VTIDKES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Engenharia de Energia**  
+💡 Foco em **Sistemas Elétricos, Energias Renováveis, Automação e Inteligência Artificial**  
+📍 Brasil  
 
-Here are some ideas to get you started:
+Sou estudante de engenharia com forte interesse em **análise de sistemas de potência**, **modelagem computacional**, **visualização de dados energéticos** e **aplicações de machine learning no setor elétrico**.  
+Aprendo de forma autônoma e busco transformar teoria em soluções computacionais aplicadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Áreas de Interesse
+- ⚡ Sistemas Elétricos de Potência
+- 🌬️ Energia Eólica e Solar
+- 📊 Análise e Visualização de Dados Energéticos
+- 🤖 Machine Learning aplicado à Energia
+- 🧮 Controle de Sistemas Dinâmicos
+- 🛠️ Simulação e Modelagem Computacional
+
+---
+
+## 🛠️ Tecnologias, Ferramentas & Plataformas
+
+### 💻 Linguagens de Programação
+- 🐍 **Python** (principal)
+- 📐 **MATLAB / Octave**
+- 🗄️ **SQL** *(básico)*
+
+---
+
+### 📚 Bibliotecas Científicas & Dados
+- 🔢 **NumPy**
+- 🐼 **Pandas**
+- 📊 **Matplotlib**
+- 📈 **Plotly**
+- 📐 **SciPy**
+- 🤖 **scikit-learn**
+
+---
+
+### ⚡ Sistemas Elétricos & Energia
+- 🔌 **pandapower**
+- 📉 Fluxo de Carga
+- 🧮 Modelagem de Sistemas Dinâmicos
+- 📊 Diagramas de **Bode**, **Nyquist** e **LGR**
+- ⏱️ Análise no Domínio do Tempo
+
+---
+
+### 🧰 Plataformas & Ambientes de Desenvolvimento
+- 🐙 **GitHub** — versionamento e portfólio de projetos
+- 🧠 **Visual Studio Code (VS Code)** — desenvolvimento local
+- ☁️ **Google Colab** — experimentos, simulações e treinamento de modelos
+- 🐍 **Thonny** — aprendizado, prototipagem e scripts Python
+
+---
+
+## 🚀 Projetos em Destaque
+- ⚡ Aplicações em **Streamlit** para análise de sistemas de controle
+- 📈 Plataforma interativa para **Sistemas Elétricos de Potência**
+- 🤖 Detecção de **Curtailment** com Machine Learning
+- 🧩 Interface estilo **Simulink** para montagem de diagramas de blocos
+- 🌍 Análise energética com dados do **ONS, ANEEL e CCEE**
+
+---
+
+## 📚 Base Teórica
+- 📘 Controle Clássico e Moderno
+- 📗 Sistemas Lineares
+- 📙 Mecânica dos Fluidos
+- 📕 Redes Elétricas
+- 📓 Fundamentos de Petróleo e Gás
+
+---
+
+## 🎯 Objetivo
+Atuar em **estágios e projetos** nas áreas de:
+- Engenharia de Energia / Elétrica
+- Sistemas de Potência
+- Análise de Dados Energéticos
+- Automação e IA aplicada à Energia
+
+---
+
+## 📫 Contato
+- 💼 **LinkedIn:** www.linkedin.com/in/vitor-silva-5000311a4
+- 📧 **Email:** Vitrsn@gmail.com
+
+---
+
+⭐ *Explore meus repositórios e acompanhe minha evolução como engenheiro.*
+
