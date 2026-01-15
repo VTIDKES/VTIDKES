@@ -1,8 +1,17 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VTIDKES&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VTIDKES&layout=compact&langs_count=16&theme=dracula)
-
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vitor-Python" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vitor-Matlab" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Vitor-SQL" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Vitor-Streamlit" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vitor-GitHub" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Vitor-VSCode" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
 
 # 👋 Olá, eu sou o Vitor Silva
 
