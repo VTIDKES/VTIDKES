@@ -1,3 +1,11 @@
+<div>
+  <a href="https://github.com/VTIDKES">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VTIDKES&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTIDKES&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
+
+
 # 👋 Olá, eu sou o Vitor Silva
 
 🎓 **Estudante de Engenharia de Energia**  
